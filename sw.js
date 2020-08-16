@@ -1,21 +1,21 @@
-var cacheName = "CACHE-5";
+var cacheName = "CACHE-6";
 var filesToCache = [
   "/",
-  "/index.html",
-  "/css/main.css",
-  "/js/main.js",
-  "/js/bootstrap.min.js",
-  "/js/waypoints.min.js",
-  "/js/jquery.min.js",
-  "/js/inview.min.js",
-  "/js/easypiechart.js",
-  "/js/counterup.min.js",
-  "/js/magnific-popup.min.js",
-  "/css/animate.css",
-  "/css/bootstrap.min.css",
-  "/css/font-awesome.min.css",
-  "/css/magnific-popup.css",
-  "/css/responsive.css"
+  "./index.html",
+  "./css/main.css",
+  "./js/main.js",
+  "./js/bootstrap.min.js",
+  "./js/waypoints.min.js",
+  "./js/jquery.min.js",
+  "./js/inview.min.js",
+  "./js/easypiechart.js",
+  "./js/counterup.min.js",
+  "./js/magnific-popup.min.js",
+  "./css/animate.css",
+  "./css/bootstrap.min.css",
+  "./css/font-awesome.min.css",
+  "./css/magnific-popup.css",
+  "./css/responsive.css"
 ];
 
 /* Start the service worker and cache all of the app's content */
