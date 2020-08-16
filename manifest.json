@@ -2,7 +2,7 @@
   "name": "Abhilash Shukla - Portfolio",
   "short_name": "Shavron 😎",
   "description": "This Porfolio is just a glimpse of my development work",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "display": "standalone",

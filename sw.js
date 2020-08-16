@@ -1,6 +1,6 @@
 var cacheName = "CACHE-6";
 var filesToCache = [
-  "/",
+  "./",
   "./index.html",
   "./css/main.css",
   "./js/main.js",
